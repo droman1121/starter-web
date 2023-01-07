@@ -24,6 +24,8 @@ file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ### Copyright
 
 2023 Git.Training.
